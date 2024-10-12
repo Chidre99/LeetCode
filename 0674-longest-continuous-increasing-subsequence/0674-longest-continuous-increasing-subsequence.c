@@ -9,13 +9,7 @@ int findLengthOfLCIS(int* nums, int numsSize) {
                 maxLength = count;
             }
         }else if(nums[i-1] >= nums[i]){
-            if(count > maxLength){
-                maxLength = count;
-            }
             count = 1;
-        }
-        if(count > maxLength){
-            maxLength = count;
         }
         
     }
