@@ -10,7 +10,7 @@ int compare(const void* a, const void* b) {
 
 int** threeSum(int* nums, int numsSize, int* returnSize, int** returnColumnSizes) {
     // Sort the input array
-    qsort(nums, numsSize, sizeof(int), (int (*)(const void*, const void*))compare);
+    qsort(nums, numsSize, sizeof(int),compare);
     
     // Initialize returnSize and allocate memory for the result
     *returnSize = 0;
