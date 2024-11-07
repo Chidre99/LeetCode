@@ -1,25 +1,31 @@
-#include <stdlib.h>
-#include <stdio.h>
-
-// Node structure for separate chaining
+// Structure for a node in the linked list for separate chaining
 typedef struct HashNode {
     int key;
     int value;
     struct HashNode* next;
 } HashNode;
 
-// Simple hash table structure
+// Hash table structure
 typedef struct {
     HashNode** buckets;
     int size;
 } HashTable;
 
-// Hash function to get an index
+// Hash function to calculate an index
 int hash(int key, int size) {
     return abs(key) % size;
 }
 
-// Initialize the hash table with given size
+// Create a new hash node
+HashNode* createNode(int key, int value) {
+    HashNode* newNode = (HashNode*)malloc(sizeof(HashNode));
+    newNode->key = key;
+    newNode->value = value;
+    newNode->next = NULL;
+    return newNode;
+}
+
+// Initialize the hash table with the given size
 HashTable* createHashTable(int size) {
     HashTable* table = (HashTable*)malloc(sizeof(HashTable));
     table->buckets = (HashNode**)calloc(size, sizeof(HashNode*));
@@ -27,17 +33,15 @@ HashTable* createHashTable(int size) {
     return table;
 }
 
-// Insert key-value pair into the hash table using separate chaining
+// Insert a key-value pair into the hash table
 void insert(HashTable* table, int key, int value) {
     int index = hash(key, table->size);
-    HashNode* newNode = (HashNode*)malloc(sizeof(HashNode));
-    newNode->key = key;
-    newNode->value = value;
-    newNode->next = table->buckets[index];
+    HashNode* newNode = createNode(key, value);
+    newNode->next = table->buckets[index]; // Insert at the beginning of the linked list
     table->buckets[index] = newNode;
 }
 
-// Find value by key in the hash table
+// Find the value associated with a key in the hash table
 int find(HashTable* table, int key, int* found) {
     int index = hash(key, table->size);
     HashNode* current = table->buckets[index];
@@ -52,7 +56,7 @@ int find(HashTable* table, int key, int* found) {
     return -1;
 }
 
-// Free the hash table
+// Free the hash table and its nodes
 void freeHashTable(HashTable* table) {
     for (int i = 0; i < table->size; i++) {
         HashNode* current = table->buckets[i];
@@ -66,9 +70,9 @@ void freeHashTable(HashTable* table) {
     free(table);
 }
 
-// The main function to find two numbers that add up to the target
+// Main function to find two numbers that add up to the target
 int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
-    HashTable* table = createHashTable(numsSize * 2); // Larger size to avoid collisions
+    HashTable* table = createHashTable(numsSize * 2); // Larger size to minimize collisions
     int* result = (int*)malloc(2 * sizeof(int));
     *returnSize = 2;
     
