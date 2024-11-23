@@ -10,7 +10,5 @@ int countNodes(struct TreeNode* root) {
     if(root != NULL){
         return 1 + countNodes(root->left) + countNodes(root->right);
     }
-    else{
         return 0;
-    }
 }
