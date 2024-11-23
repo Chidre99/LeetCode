@@ -8,7 +8,9 @@
  */
 int countNodes(struct TreeNode* root) {
     if(root != NULL){
-        return 1 + countNodes(root->left) + countNodes(root->right);
+        int x;
+        x = 1 + countNodes(root->left) + countNodes(root->right);
+        return x ;
     }
         return 0;
 }
