@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/Chidre99/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2058-concatenation-of-array](https://github.com/Chidre99/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Chidre99/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Chidre99/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Chidre99/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Chidre99/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Chidre99/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Chidre99/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Greedy
 |  |
 | ------- |
