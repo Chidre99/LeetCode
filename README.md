@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Chidre99/LeetCode/tree/master/0283-move-zeroes) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Chidre99/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/Chidre99/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0792-binary-search](https://github.com/Chidre99/LeetCode/tree/master/0792-binary-search) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Chidre99/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Chidre99/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2058-concatenation-of-array](https://github.com/Chidre99/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Chidre99/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0713-subarray-product-less-than-k](https://github.com/Chidre99/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Chidre99/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0792-binary-search](https://github.com/Chidre99/LeetCode/tree/master/0792-binary-search) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Chidre99/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
