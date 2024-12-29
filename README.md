@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Chidre99/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Chidre99/LeetCode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Chidre99/LeetCode/tree/master/0883-car-fleet) |
+| [1127-last-stone-weight](https://github.com/Chidre99/LeetCode/tree/master/1127-last-stone-weight) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Chidre99/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Chidre99/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2058-concatenation-of-array](https://github.com/Chidre99/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Chidre99/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1127-last-stone-weight](https://github.com/Chidre99/LeetCode/tree/master/1127-last-stone-weight) |
 ## Data Stream
 |  |
 | ------- |
