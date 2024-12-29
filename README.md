@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chidre99/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Chidre99/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Chidre99/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/Chidre99/LeetCode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Chidre99/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Chidre99/LeetCode/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Chidre99/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Chidre99/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chidre99/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/Chidre99/LeetCode/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/Chidre99/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Chidre99/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/Chidre99/LeetCode/tree/master/0169-majority-element) |
@@ -353,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Chidre99/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Chidre99/LeetCode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
