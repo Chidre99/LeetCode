@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Chidre99/LeetCode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Chidre99/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/Chidre99/LeetCode/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/Chidre99/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Chidre99/LeetCode/tree/master/0283-move-zeroes) |
 | [0621-task-scheduler](https://github.com/Chidre99/LeetCode/tree/master/0621-task-scheduler) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Chidre99/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chidre99/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Chidre99/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Chidre99/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/Chidre99/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Chidre99/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Chidre99/LeetCode/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Chidre99/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Chidre99/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Chidre99/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0621-task-scheduler](https://github.com/Chidre99/LeetCode/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Chidre99/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -268,4 +271,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Chidre99/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Chidre99/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Chidre99/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
