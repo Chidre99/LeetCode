@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Chidre99/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Chidre99/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0270-closest-binary-search-tree-value](https://github.com/Chidre99/LeetCode/tree/master/0270-closest-binary-search-tree-value) |
+| [0367-valid-perfect-square](https://github.com/Chidre99/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Chidre99/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Chidre99/LeetCode/tree/master/0441-arranging-coins) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Chidre99/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Chidre99/LeetCode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Chidre99/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0367-valid-perfect-square](https://github.com/Chidre99/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Chidre99/LeetCode/tree/master/0441-arranging-coins) |
 | [1014-k-closest-points-to-origin](https://github.com/Chidre99/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Chidre99/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
