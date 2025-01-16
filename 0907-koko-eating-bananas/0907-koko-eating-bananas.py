@@ -8,7 +8,7 @@ class Solution:
             total_hours = 0
             for pile in piles:
                 
-                total_hours += -(-pile // speed)  
+                total_hours += math.ceil(pile / speed)   
             return total_hours <= h
 
         # Binary search
