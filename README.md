@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/Chidre99/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2058-concatenation-of-array](https://github.com/Chidre99/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Chidre99/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Chidre99/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Chidre99/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Chidre99/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Chidre99/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Chidre99/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Chidre99/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Chidre99/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Chidre99/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Chidre99/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## String
 |  |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Chidre99/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Chidre99/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Chidre99/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Chidre99/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Chidre99/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Binary Tree
 |  |
