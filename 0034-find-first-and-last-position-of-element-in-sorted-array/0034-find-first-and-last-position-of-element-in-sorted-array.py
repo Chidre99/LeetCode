@@ -19,19 +19,15 @@ class Solution:
             if nums[mid] == target:
 
                 if isFirst:
-                    # This means we found our lower bound.
                     if mid == begin or nums[mid - 1] < target:
                         return mid
 
-                    # Search on the left side for the bound.
                     end = mid - 1
                 else:
 
-                    # This means we found our upper bound.
                     if mid == end or nums[mid + 1] > target:
                         return mid
 
-                    # Search on the right side for the bound.
                     begin = mid + 1
 
             elif nums[mid] > target:
