@@ -9,7 +9,7 @@ class Solution:
             if node == destination:
                 return True
             visited.add(node)
-            for neighbor in graph[node]:
+            for neighbor in graph.get(node, []):
                 if neighbor not in visited:
                     if dfs(neighbor, visited):
                         return True
