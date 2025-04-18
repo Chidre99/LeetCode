@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Chidre99/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1127-last-stone-weight](https://github.com/Chidre99/LeetCode/tree/master/1127-last-stone-weight) |
 | [1185-find-in-mountain-array](https://github.com/Chidre99/LeetCode/tree/master/1185-find-in-mountain-array) |
+| [1380-number-of-closed-islands](https://github.com/Chidre99/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Chidre99/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Chidre99/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Chidre99/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Chidre99/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Chidre99/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1073-number-of-enclaves](https://github.com/Chidre99/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1380-number-of-closed-islands](https://github.com/Chidre99/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Chidre99/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Chidre99/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Bit Manipulation
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Chidre99/LeetCode/tree/master/0547-number-of-provinces) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Chidre99/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1073-number-of-enclaves](https://github.com/Chidre99/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1380-number-of-closed-islands](https://github.com/Chidre99/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Chidre99/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Chidre99/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Math
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Chidre99/LeetCode/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/Chidre99/LeetCode/tree/master/0200-number-of-islands) |
 | [1073-number-of-enclaves](https://github.com/Chidre99/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1380-number-of-closed-islands](https://github.com/Chidre99/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Chidre99/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Union Find
 |  |
@@ -451,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Chidre99/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Chidre99/LeetCode/tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/Chidre99/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1380-number-of-closed-islands](https://github.com/Chidre99/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Chidre99/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Interactive
 |  |
