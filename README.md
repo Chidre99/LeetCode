@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Chidre99/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/Chidre99/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Chidre99/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [3379-score-of-a-string](https://github.com/Chidre99/LeetCode/tree/master/3379-score-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
