@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Chidre99/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1127-last-stone-weight](https://github.com/Chidre99/LeetCode/tree/master/1127-last-stone-weight) |
 | [1185-find-in-mountain-array](https://github.com/Chidre99/LeetCode/tree/master/1185-find-in-mountain-array) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Chidre99/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1380-number-of-closed-islands](https://github.com/Chidre99/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Chidre99/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Chidre99/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
