@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Chidre99/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Chidre99/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Chidre99/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Chidre99/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Simulation
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Chidre99/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/Chidre99/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Chidre99/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Chidre99/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3379-score-of-a-string](https://github.com/Chidre99/LeetCode/tree/master/3379-score-of-a-string) |
 ## Sliding Window
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Chidre99/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Chidre99/LeetCode/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/Chidre99/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Chidre99/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Hash Table
 |  |
 | ------- |
