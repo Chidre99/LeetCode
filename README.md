@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/Chidre99/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Chidre99/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Chidre99/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Chidre99/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/Chidre99/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Chidre99/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Two Pointers
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Chidre99/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Chidre99/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Chidre99/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Chidre99/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Simulation
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Chidre99/LeetCode/tree/master/0621-task-scheduler) |
 | [0965-unique-email-addresses](https://github.com/Chidre99/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/Chidre99/LeetCode/tree/master/1832-minimum-operations-to-make-a-subsequence) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Chidre99/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Linked List
 |  |
 | ------- |
