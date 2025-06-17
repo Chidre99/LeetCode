@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Chidre99/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Chidre99/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Chidre99/LeetCode/tree/master/0392-is-subsequence) |
+| [0408-valid-word-abbreviation](https://github.com/Chidre99/LeetCode/tree/master/0408-valid-word-abbreviation) |
 | [0455-assign-cookies](https://github.com/Chidre99/LeetCode/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Chidre99/LeetCode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Chidre99/LeetCode/tree/master/0680-valid-palindrome-ii) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Chidre99/LeetCode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Chidre99/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Chidre99/LeetCode/tree/master/0392-is-subsequence) |
+| [0408-valid-word-abbreviation](https://github.com/Chidre99/LeetCode/tree/master/0408-valid-word-abbreviation) |
 | [0424-longest-repeating-character-replacement](https://github.com/Chidre99/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/Chidre99/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/Chidre99/LeetCode/tree/master/0567-permutation-in-string) |
