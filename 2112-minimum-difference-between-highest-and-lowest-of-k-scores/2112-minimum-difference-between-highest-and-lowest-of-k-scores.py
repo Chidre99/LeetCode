@@ -11,4 +11,4 @@ class Solution:
             diff = nums[i + k - 1] - nums[i] 
             mindiff = min(mindiff, diff) 
 
-        return mindiff  # Return the smallest difference found.
+        return mindiff
