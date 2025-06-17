@@ -4,6 +4,4 @@ class Solution:
             reversed_word = word[::-1]
             if word == reversed_word:
                 return word
-
-        # If no palindrome is found, return an empty string
         return ""
