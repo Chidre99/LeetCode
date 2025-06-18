@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Chidre99/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/Chidre99/LeetCode/tree/master/0742-to-lower-case) |
 | [0965-unique-email-addresses](https://github.com/Chidre99/LeetCode/tree/master/0965-unique-email-addresses) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Chidre99/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Chidre99/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Chidre99/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Chidre99/LeetCode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1138-grumpy-bookstore-owner](https://github.com/Chidre99/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Chidre99/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Chidre99/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Chidre99/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Chidre99/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Chidre99/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Chidre99/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
