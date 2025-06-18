@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Chidre99/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Chidre99/LeetCode/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/Chidre99/LeetCode/tree/master/0390-elimination-game) |
+| [0795-k-th-symbol-in-grammar](https://github.com/Chidre99/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/Chidre99/LeetCode/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Chidre99/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Chidre99/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Chidre99/LeetCode/tree/master/0389-find-the-difference) |
+| [0795-k-th-symbol-in-grammar](https://github.com/Chidre99/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Chidre99/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0390-elimination-game](https://github.com/Chidre99/LeetCode/tree/master/0390-elimination-game) |
 | [0441-arranging-coins](https://github.com/Chidre99/LeetCode/tree/master/0441-arranging-coins) |
+| [0795-k-th-symbol-in-grammar](https://github.com/Chidre99/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/Chidre99/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Chidre99/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Chidre99/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
