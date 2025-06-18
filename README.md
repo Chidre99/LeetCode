@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/Chidre99/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Chidre99/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Chidre99/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/Chidre99/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2727-number-of-senior-citizens](https://github.com/Chidre99/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3379-score-of-a-string](https://github.com/Chidre99/LeetCode/tree/master/3379-score-of-a-string) |
 ## Sliding Window
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Chidre99/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Chidre99/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Chidre99/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/Chidre99/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Chidre99/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Chidre99/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chidre99/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/Chidre99/LeetCode/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Chidre99/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Chidre99/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/Chidre99/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Chidre99/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chidre99/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Linked List
