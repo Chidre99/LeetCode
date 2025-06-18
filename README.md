@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Chidre99/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Chidre99/LeetCode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Chidre99/LeetCode/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chidre99/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Chidre99/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/Chidre99/LeetCode/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/Chidre99/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Chidre99/LeetCode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Chidre99/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Chidre99/LeetCode/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chidre99/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0883-car-fleet](https://github.com/Chidre99/LeetCode/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/Chidre99/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Chidre99/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Chidre99/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Chidre99/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Chidre99/LeetCode/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chidre99/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0713-subarray-product-less-than-k](https://github.com/Chidre99/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/Chidre99/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Chidre99/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Chidre99/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Chidre99/LeetCode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Chidre99/LeetCode/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chidre99/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0680-valid-palindrome-ii](https://github.com/Chidre99/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0770-couples-holding-hands](https://github.com/Chidre99/LeetCode/tree/master/0770-couples-holding-hands) |
 | [0917-boats-to-save-people](https://github.com/Chidre99/LeetCode/tree/master/0917-boats-to-save-people) |
@@ -291,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Chidre99/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Chidre99/LeetCode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Chidre99/LeetCode/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chidre99/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0940-fruit-into-baskets](https://github.com/Chidre99/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0965-unique-email-addresses](https://github.com/Chidre99/LeetCode/tree/master/0965-unique-email-addresses) |
 | [0966-binary-subarrays-with-sum](https://github.com/Chidre99/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -571,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Chidre99/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Chidre99/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Chidre99/LeetCode/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chidre99/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Chidre99/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/Chidre99/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Chidre99/LeetCode/tree/master/1127-last-stone-weight) |
