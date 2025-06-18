@@ -1,7 +1,7 @@
 class Solution:
     def maxFrequency(self, nums: List[int], k: int) -> int:
         nums.sort()
-        left = 0;
+        left = 0
         total = 0
         res = 0
 
