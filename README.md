@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Chidre99/LeetCode/tree/master/0742-to-lower-case) |
 | [0965-unique-email-addresses](https://github.com/Chidre99/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Chidre99/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Chidre99/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Chidre99/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Chidre99/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Chidre99/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1138-grumpy-bookstore-owner](https://github.com/Chidre99/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Chidre99/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Chidre99/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Chidre99/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Chidre99/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Chidre99/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1755-defuse-the-bomb](https://github.com/Chidre99/LeetCode/tree/master/1755-defuse-the-bomb) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Chidre99/LeetCode/tree/master/0621-task-scheduler) |
 | [0940-fruit-into-baskets](https://github.com/Chidre99/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0965-unique-email-addresses](https://github.com/Chidre99/LeetCode/tree/master/0965-unique-email-addresses) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Chidre99/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Chidre99/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/Chidre99/LeetCode/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Chidre99/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
