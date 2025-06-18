@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Chidre99/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/Chidre99/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0965-unique-email-addresses](https://github.com/Chidre99/LeetCode/tree/master/0965-unique-email-addresses) |
+| [0966-binary-subarrays-with-sum](https://github.com/Chidre99/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0985-bag-of-tokens](https://github.com/Chidre99/LeetCode/tree/master/0985-bag-of-tokens) |
 | [1014-k-closest-points-to-origin](https://github.com/Chidre99/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Chidre99/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Chidre99/LeetCode/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Chidre99/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/Chidre99/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/Chidre99/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1138-grumpy-bookstore-owner](https://github.com/Chidre99/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Chidre99/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Chidre99/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Chidre99/LeetCode/tree/master/0621-task-scheduler) |
 | [0940-fruit-into-baskets](https://github.com/Chidre99/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0965-unique-email-addresses](https://github.com/Chidre99/LeetCode/tree/master/0965-unique-email-addresses) |
+| [0966-binary-subarrays-with-sum](https://github.com/Chidre99/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Chidre99/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Chidre99/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/Chidre99/LeetCode/tree/master/1832-minimum-operations-to-make-a-subsequence) |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Chidre99/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Chidre99/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/Chidre99/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/Chidre99/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Chidre99/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Chidre99/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Chidre99/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
