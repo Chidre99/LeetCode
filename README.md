@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Chidre99/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1083-two-sum-less-than-k](https://github.com/Chidre99/LeetCode/tree/master/1083-two-sum-less-than-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Chidre99/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Chidre99/LeetCode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1894-merge-strings-alternately](https://github.com/Chidre99/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Chidre99/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Chidre99/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Chidre99/LeetCode/tree/master/0742-to-lower-case) |
 | [0965-unique-email-addresses](https://github.com/Chidre99/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Chidre99/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Chidre99/LeetCode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1894-merge-strings-alternately](https://github.com/Chidre99/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Chidre99/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Chidre99/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
