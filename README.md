@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Chidre99/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Chidre99/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1755-defuse-the-bomb](https://github.com/Chidre99/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Chidre99/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Chidre99/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/Chidre99/LeetCode/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Chidre99/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Chidre99/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Chidre99/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1755-defuse-the-bomb](https://github.com/Chidre99/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Chidre99/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Chidre99/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Chidre99/LeetCode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Chidre99/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Chidre99/LeetCode/tree/master/0621-task-scheduler) |
 | [0940-fruit-into-baskets](https://github.com/Chidre99/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0965-unique-email-addresses](https://github.com/Chidre99/LeetCode/tree/master/0965-unique-email-addresses) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Chidre99/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/Chidre99/LeetCode/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Chidre99/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Chidre99/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1185-find-in-mountain-array](https://github.com/Chidre99/LeetCode/tree/master/1185-find-in-mountain-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Chidre99/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Chidre99/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Chidre99/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/Chidre99/LeetCode/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Chidre99/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Chidre99/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -485,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Chidre99/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/Chidre99/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Chidre99/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Chidre99/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Chidre99/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Design
 |  |
