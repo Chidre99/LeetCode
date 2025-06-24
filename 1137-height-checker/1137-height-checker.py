@@ -5,6 +5,4 @@ class Solution:
         for i in range(len(heights)):
             if heights[i] != expected[i]:
                 count = count + 1
-            else:
-                continue
         return count
