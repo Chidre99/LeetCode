@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Chidre99/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1083-two-sum-less-than-k](https://github.com/Chidre99/LeetCode/tree/master/1083-two-sum-less-than-k) |
 | [1127-last-stone-weight](https://github.com/Chidre99/LeetCode/tree/master/1127-last-stone-weight) |
+| [1137-height-checker](https://github.com/Chidre99/LeetCode/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/Chidre99/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1185-find-in-mountain-array](https://github.com/Chidre99/LeetCode/tree/master/1185-find-in-mountain-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Chidre99/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Chidre99/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Chidre99/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1083-two-sum-less-than-k](https://github.com/Chidre99/LeetCode/tree/master/1083-two-sum-less-than-k) |
+| [1137-height-checker](https://github.com/Chidre99/LeetCode/tree/master/1137-height-checker) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Chidre99/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Chidre99/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Chidre99/LeetCode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
@@ -655,4 +657,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Chidre99/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/Chidre99/LeetCode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
