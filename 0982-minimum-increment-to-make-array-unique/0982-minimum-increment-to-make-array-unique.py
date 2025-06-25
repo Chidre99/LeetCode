@@ -4,7 +4,7 @@ class Solution:
         moves = 0
         for i in range(1,len(nums)):
             if nums[i] <= nums[i-1]:
-                add = - nums[i] + nums[i-1]+1
+                add = nums[i-1] - nums[i]+1
                 moves = moves + add
                 nums[i] = nums[i-1] + 1
                 
