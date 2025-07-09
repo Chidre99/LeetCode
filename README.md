@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Chidre99/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chidre99/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Chidre99/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Chidre99/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Chidre99/LeetCode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Chidre99/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Chidre99/LeetCode/tree/master/0344-reverse-string) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Chidre99/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Chidre99/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Chidre99/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Chidre99/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Chidre99/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Chidre99/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Chidre99/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Chidre99/LeetCode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Chidre99/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Chidre99/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Chidre99/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Chidre99/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Chidre99/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Chidre99/LeetCode/tree/master/0342-power-of-four) |
