@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Chidre99/LeetCode/tree/master/0258-add-digits) |
 | [2058-concatenation-of-array](https://github.com/Chidre99/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Chidre99/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Chidre99/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Chidre99/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Chidre99/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Chidre99/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Chidre99/LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Chidre99/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Chidre99/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Chidre99/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -669,4 +671,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Chidre99/LeetCode/tree/master/1137-height-checker) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Chidre99/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
