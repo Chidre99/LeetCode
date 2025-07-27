@@ -17,4 +17,4 @@ class Solution:
             # Subtract one for the deleted element
             max_len = max(max_len, right - left)
 
-        return max_le
+        return max_len
