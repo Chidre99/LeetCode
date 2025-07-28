@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Chidre99/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Chidre99/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Chidre99/LeetCode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Chidre99/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Chidre99/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Chidre99/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Chidre99/LeetCode/tree/master/0059-spiral-matrix-ii) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Chidre99/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Chidre99/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Chidre99/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Chidre99/LeetCode/tree/master/0069-sqrtx) |
@@ -711,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Chidre99/LeetCode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Chidre99/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Chidre99/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Chidre99/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/Chidre99/LeetCode/tree/master/0200-number-of-islands) |
