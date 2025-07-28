@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Chidre99/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Chidre99/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Chidre99/LeetCode/tree/master/0268-missing-number) |
+| [0280-wiggle-sort](https://github.com/Chidre99/LeetCode/tree/master/0280-wiggle-sort) |
 | [0283-move-zeroes](https://github.com/Chidre99/LeetCode/tree/master/0283-move-zeroes) |
 | [0324-wiggle-sort-ii](https://github.com/Chidre99/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Chidre99/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Chidre99/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Chidre99/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Chidre99/LeetCode/tree/master/0268-missing-number) |
+| [0280-wiggle-sort](https://github.com/Chidre99/LeetCode/tree/master/0280-wiggle-sort) |
 | [0295-find-median-from-data-stream](https://github.com/Chidre99/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/Chidre99/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Chidre99/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Chidre99/LeetCode/tree/master/0011-container-with-most-water) |
+| [0280-wiggle-sort](https://github.com/Chidre99/LeetCode/tree/master/0280-wiggle-sort) |
 | [0324-wiggle-sort-ii](https://github.com/Chidre99/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0455-assign-cookies](https://github.com/Chidre99/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Chidre99/LeetCode/tree/master/0605-can-place-flowers) |
