@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Chidre99/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Chidre99/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Chidre99/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0243-shortest-word-distance](https://github.com/Chidre99/LeetCode/tree/master/0243-shortest-word-distance) |
 | [0268-missing-number](https://github.com/Chidre99/LeetCode/tree/master/0268-missing-number) |
 | [0280-wiggle-sort](https://github.com/Chidre99/LeetCode/tree/master/0280-wiggle-sort) |
 | [0283-move-zeroes](https://github.com/Chidre99/LeetCode/tree/master/0283-move-zeroes) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Chidre99/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Chidre99/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Chidre99/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0243-shortest-word-distance](https://github.com/Chidre99/LeetCode/tree/master/0243-shortest-word-distance) |
 | [0344-reverse-string](https://github.com/Chidre99/LeetCode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Chidre99/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Chidre99/LeetCode/tree/master/0392-is-subsequence) |
