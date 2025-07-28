@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Chidre99/LeetCode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Chidre99/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Chidre99/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0526-beautiful-arrangement](https://github.com/Chidre99/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0605-can-place-flowers](https://github.com/Chidre99/LeetCode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Chidre99/LeetCode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chidre99/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Chidre99/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Chidre99/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Chidre99/LeetCode/tree/master/0389-find-the-difference) |
+| [0526-beautiful-arrangement](https://github.com/Chidre99/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/Chidre99/LeetCode/tree/master/0645-set-mismatch) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Chidre99/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 ## Breadth-First Search
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Chidre99/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0264-ugly-number-ii](https://github.com/Chidre99/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/Chidre99/LeetCode/tree/master/0392-is-subsequence) |
+| [0526-beautiful-arrangement](https://github.com/Chidre99/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0747-min-cost-climbing-stairs](https://github.com/Chidre99/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Chidre99/LeetCode/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Chidre99/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -627,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Chidre99/LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Chidre99/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Chidre99/LeetCode/tree/master/0078-subsets) |
+| [0526-beautiful-arrangement](https://github.com/Chidre99/LeetCode/tree/master/0526-beautiful-arrangement) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -729,4 +733,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Chidre99/LeetCode/tree/master/0258-add-digits) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/Chidre99/LeetCode/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
