@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-number-of-closed-islands](https://github.com/Chidre99/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Chidre99/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Chidre99/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Chidre99/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Chidre99/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Chidre99/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Chidre99/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
