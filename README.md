@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Chidre99/LeetCode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Chidre99/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Chidre99/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Chidre99/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Chidre99/LeetCode/tree/master/0392-is-subsequence) |
 | [0408-valid-word-abbreviation](https://github.com/Chidre99/LeetCode/tree/master/0408-valid-word-abbreviation) |
 | [0455-assign-cookies](https://github.com/Chidre99/LeetCode/tree/master/0455-assign-cookies) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Chidre99/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0243-shortest-word-distance](https://github.com/Chidre99/LeetCode/tree/master/0243-shortest-word-distance) |
 | [0344-reverse-string](https://github.com/Chidre99/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Chidre99/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Chidre99/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Chidre99/LeetCode/tree/master/0392-is-subsequence) |
 | [0408-valid-word-abbreviation](https://github.com/Chidre99/LeetCode/tree/master/0408-valid-word-abbreviation) |
