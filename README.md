@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/Chidre99/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Chidre99/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Chidre99/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2689-rearranging-fruits](https://github.com/Chidre99/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Chidre99/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/Chidre99/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Chidre99/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Chidre99/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Chidre99/LeetCode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Chidre99/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2689-rearranging-fruits](https://github.com/Chidre99/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Chidre99/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## String
 |  |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Chidre99/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Chidre99/LeetCode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Chidre99/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [2689-rearranging-fruits](https://github.com/Chidre99/LeetCode/tree/master/2689-rearranging-fruits) |
 ## Hash Table
 |  |
 | ------- |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Chidre99/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Chidre99/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Chidre99/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2689-rearranging-fruits](https://github.com/Chidre99/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Chidre99/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chidre99/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/Chidre99/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
