@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Chidre99/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Chidre99/LeetCode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Chidre99/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Chidre99/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Chidre99/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Chidre99/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Chidre99/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Chidre99/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Chidre99/LeetCode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Chidre99/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Chidre99/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Chidre99/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Chidre99/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Chidre99/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Chidre99/LeetCode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Chidre99/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Chidre99/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Chidre99/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Chidre99/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Chidre99/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Binary Tree
@@ -650,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Chidre99/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Chidre99/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Chidre99/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Chidre99/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Design
 |  |
 | ------- |
