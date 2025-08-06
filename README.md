@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Chidre99/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/Chidre99/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Chidre99/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Chidre99/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Chidre99/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Chidre99/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3790-fruits-into-baskets-ii](https://github.com/Chidre99/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Chidre99/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -786,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Chidre99/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [3790-fruits-into-baskets-ii](https://github.com/Chidre99/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Chidre99/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -802,4 +805,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Chidre99/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Chidre99/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->
