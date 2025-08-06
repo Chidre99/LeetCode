@@ -29,7 +29,7 @@ class SegmentTree:
             node = left if self.data[left] >= need else left | 1
         idx = node - self.size
         self._update_to_minus_one(idx)
-        return id
+        return idx
 
 class Solution:
     def numOfUnplacedFruits(self, fruits: List[int], baskets: List[int]) -> int:
