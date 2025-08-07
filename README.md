@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chidre99/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/Chidre99/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/Chidre99/LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Chidre99/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3790-fruits-into-baskets-ii](https://github.com/Chidre99/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Chidre99/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Two Pointers
@@ -680,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Chidre99/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Chidre99/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Chidre99/LeetCode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Chidre99/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Backtracking
 |  |
 | ------- |
@@ -756,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-number-of-closed-islands](https://github.com/Chidre99/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Chidre99/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/Chidre99/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Chidre99/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Union Find
 |  |
 | ------- |
