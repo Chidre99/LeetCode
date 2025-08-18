@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1138-grumpy-bookstore-owner](https://github.com/Chidre99/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1185-find-in-mountain-array](https://github.com/Chidre99/LeetCode/tree/master/1185-find-in-mountain-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Chidre99/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1319-unique-number-of-occurrences](https://github.com/Chidre99/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Chidre99/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1380-number-of-closed-islands](https://github.com/Chidre99/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Chidre99/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/Chidre99/LeetCode/tree/master/0965-unique-email-addresses) |
 | [0966-binary-subarrays-with-sum](https://github.com/Chidre99/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Chidre99/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1319-unique-number-of-occurrences](https://github.com/Chidre99/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Chidre99/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Chidre99/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Chidre99/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
