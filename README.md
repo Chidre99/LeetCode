@@ -840,4 +840,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/Chidre99/LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Chidre99/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Chidre99/LeetCode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [1934-confirmation-rate](https://github.com/Chidre99/LeetCode/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
